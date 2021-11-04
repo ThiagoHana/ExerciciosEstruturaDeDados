@@ -1,0 +1,7 @@
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.1 Recursividade\Ex.1 Recursividade\bin\Debug\Ex.1 Recursividade.exe.config
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.1 Recursividade\Ex.1 Recursividade\bin\Debug\Ex.1 Recursividade.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.1 Recursividade\Ex.1 Recursividade\bin\Debug\Ex.1 Recursividade.pdb
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.1 Recursividade\Ex.1 Recursividade\obj\Debug\Ex.1 Recursividade.csprojAssemblyReference.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.1 Recursividade\Ex.1 Recursividade\obj\Debug\Ex.1 Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.1 Recursividade\Ex.1 Recursividade\obj\Debug\Ex.1 Recursividade.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.1 Recursividade\Ex.1 Recursividade\obj\Debug\Ex.1 Recursividade.pdb

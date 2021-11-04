@@ -1,0 +1,7 @@
+C:\Users\AGNALDO E FAMILIA\source\repos\Agenda Telefônica\Agenda Telefônica\bin\Debug\Agenda Telefônica.exe.config
+C:\Users\AGNALDO E FAMILIA\source\repos\Agenda Telefônica\Agenda Telefônica\bin\Debug\Agenda Telefônica.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Agenda Telefônica\Agenda Telefônica\bin\Debug\Agenda Telefônica.pdb
+C:\Users\AGNALDO E FAMILIA\source\repos\Agenda Telefônica\Agenda Telefônica\obj\Debug\Agenda Telefônica.csprojAssemblyReference.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Agenda Telefônica\Agenda Telefônica\obj\Debug\Agenda Telefônica.csproj.CoreCompileInputs.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Agenda Telefônica\Agenda Telefônica\obj\Debug\Agenda Telefônica.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Agenda Telefônica\Agenda Telefônica\obj\Debug\Agenda Telefônica.pdb

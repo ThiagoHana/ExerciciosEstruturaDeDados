@@ -1,0 +1,10 @@
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\bin\Debug\Ex.4 Recursividade.exe.config
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\bin\Debug\Ex.4 Recursividade.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\bin\Debug\Ex.4 Recursividade.pdb
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\obj\Debug\Ex.4 Recursividade.csprojAssemblyReference.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\obj\Debug\Ex._4_Recursividade.Form1.resources
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\obj\Debug\Ex._4_Recursividade.Properties.Resources.resources
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\obj\Debug\Ex.4 Recursividade.csproj.GenerateResource.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\obj\Debug\Ex.4 Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\obj\Debug\Ex.4 Recursividade.exe
+C:\Users\AGNALDO E FAMILIA\source\repos\Ex.4 Recursividade\Ex.4 Recursividade\obj\Debug\Ex.4 Recursividade.pdb
